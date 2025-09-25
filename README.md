@@ -7,9 +7,11 @@ I’m a 2nd-year AI student at JKU Linz. I’m new to practical ML and building 
 - Git & GitHub
 
 
-## Connect with me
-- [LinkedIn](https://www.linkedin.com/in/your-username/)
-- [GitHub](https://github.com/your-username)
+## 📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/kiana-kamyab
+- GitHub: https://github.com/cielna
+
+
 
 
 # 💻 Tech Stack:
