@@ -1,4 +1,4 @@
-## Hi — I’m <Your Name> 👋
+## Hi, I’m Kiana!
 I’m a 2nd-year AI student at JKU Linz. I’m new to practical ML and building my skills with small, complete projects.
 
 ### What I’m learning right now
